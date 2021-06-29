@@ -163,7 +163,7 @@ Contributed for Product SmartOffice, a web based business solution for Finance a
 -Course grain, fine grain, Blocking, non-blocking techniques used to implement Concurrent Datastructures.
 
 ### [Time Slicer](https://github.com/hnthakkar/TimeSlicer)
-- Pause the execution of multiple threads and displays the value of interest every seconds or as per the configuration
+-Pause the execution of multiple threads and displays the value of interest every seconds or as per the configuration
 
 ### [Database Implementation (2014)](https://github.com/hnthakkar/Database-Implementation)
 -Using a SQL parser library (gsp) and data store as CSV file Implemented tables, Join, Indexing. 
