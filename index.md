@@ -148,38 +148,41 @@ Contributed for Product SmartOffice, a web based business solution for Finance a
 
 •	Part of the corporate Customization group, which gathers details from client and implement customization and new features on top of the basic layer. 
 
+## Open Source Projects
 
+### [BitTorrent Implementation (distributed file sharing) (2019)](https://github.com/hnthakkar/BitTorrent-or-distributed-file-sharing)
+-Direct Peer to peer file sharing with seeder and leecher implementation. 
 
+### [HDFS Implementation (2016)](https://github.com/hnthakkar/HDFS-Implementation)
+-Implemented distributed File system which included Name Node, Data Node and command line client Interface.
 
+### [MAP Reduce Framework Implementation (2016)](https://github.com/hnthakkar/Map-Reduce-Implementation-Over-HDFS)
+-Implemented on top of above HDFS, JobClient, JobTracker and TaskTracker Implementation.
 
-### Markdown
+### [Concurrent Data Structures Implementation (2014)](https://github.com/hnthakkar/Concurrent-Data-Structures)
+-Course grain, fine grain, Blocking, non-blocking techniques used to implement Concurrent Datastructures.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [Database Implementation (2014)](https://github.com/hnthakkar/Database-Implementation)
+-Using a SQL parser library (gsp) and data store as CSV file Implemented tables, Join, Indexing. 
 
-```markdown
-Syntax highlighted code block
+### [POC Voice command Websites (2018)](https://github.com/hnthakkar/POC-Voice-command-Websites)
+-Allowing websites to take voice sample, converting it to a word, which will be registered to trigger a command on UI. 
 
-# Header 1
-## Header 2
-### Header 3
+### [IoT Platform (2016)](https://github.com/hnthakkar/IoT-Platform)
+-Platform for registration of IoT peripheral devices, data, device management including rule management. 
 
-- Bulleted
-- List
+### [Dropbox and Sharing (2015)](https://github.com/hnthakkar/DropboxAndSharing)
+-Simple Centralized file sharing with permission and Third party login. 
 
-1. Numbered
-2. List
+### [VPD Implementation for Security (2016)](https://github.com/hnthakkar/VPD-Implementation-for-Security)
+-Column masking using VPD implementation.
 
-**Bold** and _Italic_ and `Code` text
+### [Splunk Efficient logging (2016)](https://github.com/hnthakkar/SplunkLogging)
+-Extended the log4j to append the Splunk feed to a separate file to reduce the feed to the Splunk server. 
 
-[Link](url) and ![Image](src)
-```
+### [Study on Data Privacy (2018)](https://github.com/hnthakkar/Independent-Study---Data-Privacy)
+-Read multiple paper published in this area and submitted a report.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### [Screen Capturing tool (2013)](https://github.com/hnthakkar/ScreenCapture)
+-Java program using swing to take screen shots.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hnthakkar/hnthakkar.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
