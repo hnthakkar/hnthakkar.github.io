@@ -186,3 +186,15 @@ Contributed for Product SmartOffice, a web based business solution for Finance a
 ### [Screen Capturing tool (2013)](https://github.com/hnthakkar/ScreenCapture)
 -Java program using swing to take screen shots.
 
+### [Security Fundamental Report (2000)](https://github.com/hnthakkar/Security-fundamentals-report)
+-Reading a lot of published papers and online material had submitted a report on Security Fundamentals
+
+### Competitive Programming Practice
+- [LeetCode](https://github.com/hnthakkar/LeetCode)
+- [HackerRank](https://github.com/hnthakkar/Hackerrank)
+- [Hackerearth](https://github.com/hnthakkar/Hackerearth)
+- [Random DSA](https://github.com/hnthakkar/Random_DS_DAA)
+- [Java Problem Solving Random](https://github.com/hnthakkar/JavaProblemSolvingRandom)
+
+### [Back Dated Github commits implementation in Java](https://github.com/hnthakkar/backDatedGithubCommitsJava)
+- Beautify Github Heat Map
