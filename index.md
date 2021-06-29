@@ -151,46 +151,46 @@ Contributed for Product SmartOffice, a web based business solution for Finance a
 ## Open Source Projects
 
 ### [BitTorrent Implementation (distributed file sharing) (2019)](https://github.com/hnthakkar/BitTorrent-or-distributed-file-sharing)
--Direct Peer to peer file sharing with seeder and leecher implementation. 
+- Direct Peer to peer file sharing with seeder and leecher implementation. 
 
 ### [HDFS Implementation (2016)](https://github.com/hnthakkar/HDFS-Implementation)
--Implemented distributed File system which included Name Node, Data Node and command line client Interface.
+- Implemented distributed File system which included Name Node, Data Node and command line client Interface.
 
 ### [MAP Reduce Framework Implementation (2016)](https://github.com/hnthakkar/Map-Reduce-Implementation-Over-HDFS)
--Implemented on top of above HDFS, JobClient, JobTracker and TaskTracker Implementation.
+- Implemented on top of above HDFS, JobClient, JobTracker and TaskTracker Implementation.
 
 ### [Concurrent Data Structures Implementation (2014)](https://github.com/hnthakkar/Concurrent-Data-Structures)
--Course grain, fine grain, Blocking, non-blocking techniques used to implement Concurrent Datastructures.
+- Course grain, fine grain, Blocking, non-blocking techniques used to implement Concurrent Datastructures.
 
 ### [Time Slicer](https://github.com/hnthakkar/TimeSlicer)
--Pause the execution of multiple threads and displays the value of interest every seconds or as per the configuration
+- Pause the execution of multiple threads and displays the value of interest every seconds or as per the configuration
 
 ### [Database Implementation (2014)](https://github.com/hnthakkar/Database-Implementation)
--Using a SQL parser library (gsp) and data store as CSV file Implemented tables, Join, Indexing. 
+- Using a SQL parser library (gsp) and data store as CSV file Implemented tables, Join, Indexing. 
 
 ### [POC Voice command Websites (2018)](https://github.com/hnthakkar/POC-Voice-command-Websites)
--Allowing websites to take voice sample, converting it to a word, which will be registered to trigger a command on UI. 
+- Allowing websites to take voice sample, converting it to a word, which will be registered to trigger a command on UI. 
 
 ### [IoT Platform (2016)](https://github.com/hnthakkar/IoT-Platform)
--Platform for registration of IoT peripheral devices, data, device management including rule management. 
+- Platform for registration of IoT peripheral devices, data, device management including rule management. 
 
 ### [Dropbox and Sharing (2015)](https://github.com/hnthakkar/DropboxAndSharing)
--Simple Centralized file sharing with permission and Third party login. 
+- Simple Centralized file sharing with permission and Third party login. 
 
 ### [VPD Implementation for Security (2016)](https://github.com/hnthakkar/VPD-Implementation-for-Security)
--Column masking using VPD implementation.
+- Column masking using VPD implementation.
 
 ### [Splunk Efficient logging (2016)](https://github.com/hnthakkar/SplunkLogging)
--Extended the log4j to append the Splunk feed to a separate file to reduce the feed to the Splunk server. 
+- Extended the log4j to append the Splunk feed to a separate file to reduce the feed to the Splunk server. 
 
 ### [Study on Data Privacy (2018)](https://github.com/hnthakkar/Independent-Study---Data-Privacy)
--Read multiple paper published in this area and submitted a report.
+- Read multiple paper published in this area and submitted a report.
 
 ### [Screen Capturing tool (2013)](https://github.com/hnthakkar/ScreenCapture)
--Java program using swing to take screen shots.
+- Java program using swing to take screen shots.
 
 ### [Security Fundamental Report (2000)](https://github.com/hnthakkar/Security-fundamentals-report)
--Reading a lot of published papers and online material had submitted a report on Security Fundamentals
+- Reading a lot of published papers and online material had submitted a report on Security Fundamentals
 
 ### Competitive Programming Practice
 - [LeetCode](https://github.com/hnthakkar/LeetCode)
