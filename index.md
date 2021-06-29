@@ -1,4 +1,102 @@
 
+## Highlights
+•	12 plus years of experience in leading Product based companies and experience of working at the framework level implementations.
+
+•	Highly experienced in backend and server side programming.
+
+•	Interested and have knowledge of Distributed systems/programming.
+
+•	Knowledge of Algorithms and Datastructures.
+
+•	Efficient in Multi-threaded programming and Concurrent Data Structures.
+
+•	Experienced in RESTful APIs and Full Stack web development.
+
+•	Good communication and negotiation skills with balance of Technical and Management views.
+
+•	Strong Fundamental knowledge, self-motivated, always learning and striving to improve.
+
+## Work Experience
+•	Oracle India (Current Employer, 4 years 11 months)
+
+•	Automatic Data Processor (3 years 6 months)
+
+•	Infosys Technologies Limited (1 year)
+
+•	Premier Technology group Pvt Ltd (3 years 11 months)
+
+## Education
+•	M.Tech Computer Science, International Institute of Information Technology, Hyderabad (IIIT-HYD), CGPA 7.94.
+
+•	B.E Electronics, Vishwakarma Institute of Technology, Pune University, 58.5%.
+
+•	HSC, Maharashtra State Board, Hislop College, Nagpur, 85.5%, PCM 94%.
+
+•	SSC, Maharashtra State Board, Saint Francis De Sales, Nagpur, 71.2%.
+
+## Achievements
+•	Did Engineering in Electronics, after 4 years of experience in IT. Prepared all Computer Science subjects appeared for GATE CS 2010 and secured AIR 556 out of 107086 applicants in first attempt.
+
+•	Completed my M.Tech from IIIT HYD along with regular M.Tech/MS/PhD students while working.
+
+•	Received Going Beyond award at Oracle and GIFT (Give it a Fresh thought) award in innovation category ADP.
+
+•	First Runner up at coding competition at ADP India level.
+
+## Primary Skills
+•	Java, JEE
+
+•	OOAD
+
+•	Multi-Threaded and Concurrency Programming
+
+•	Distributed System and Programming
+
+•	Datastructures and Algorithms
+
+•	RESTful Web services
+
+•	Knowledge of DB design and SQL/PLSQL
+
+•	JPA, Spring, Hibernate
+
+## Secondary Skills
+•	JavaScript, Typescript, Angularjs, OracleJet, jQuery, HTML5, CSS3.
+
+•	SVN, GIT, Jenkins, Maven, Rally, Splunk, JIRA.
+
+•	Cloud deployment, Basic knowledge of Docker and Kubernetes.
+
+
+## Project Details
+
+## Oracle India (July 16 – Present)
+Part of Taleo Product Team which enables companies to easily source, recruit, develop, and retain top talent with an engaging, social and data-rich talent management software suite.	
+
+•	Role: Principal Software Engineer
+
+•	Technologies: Java, in-house Framework and libraries, hiberante, spring, JAAS, SAML, micro-services, Typescript, OracleJet.
+
+•	Webserver: Tomcat (development), WLS (Production Env)
+
+#### Description: 
+•	Senior Member/contributor in implementing/converting complete Recruitment suite from Flex UI to Ojet, involving architectural design and framework changes to exposing a REST layer and build from scratch UI framework and layer.
+
+•	Part of the core modules like Requisitions, General Profile, Submissions, Offers, Send Correspondence team. 
+
+•	Involved in all stages of product development and make sure delivered features are Secure, Reusable, Scalable, Accessible, high performance and meet Oracle Global standards.
+
+•	Part of the Security Team to meet the compliance level of Taleo for FedRamp.
+
+•	Migrated Taleo product Smartorg and platform component to Weblogic 12.2 and Java 6 to Java 8 migration.
+
+•	Joined as a Team member for Platform components managing core libraries including security and User management. 
+
+•	Responsible for agile team deliverables as planned in a sprint, quarter and annual releases and address all impediments that team faces.
+
+•	Part of the new team planning to break down monolithic services to microservices.
+
+
 ## Automatic Data Processing (Dec 12 – July 16)
 Part of the Team developing and managing Software which is Global leader in Payroll Processing.
 
